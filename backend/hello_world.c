@@ -4,10 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct {
-	char* name;
-	int age;
-} insan;
 
 #define BLINK_TIME  0.1
 
