@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 29 16:14:46 EET 2017
+0.baseType=DIRECTORY
+0.base=/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Tue Jan 09 20:11:21 EET 2018
+base.0=/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/dexMerger/debug/60
+path.0=classes.dex
+renamed.0=classes.dex

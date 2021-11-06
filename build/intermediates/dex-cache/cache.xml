@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVLibrary300/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="050bb2028b8a600a45af106b8a903c1a5a2a262f">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/04c031efe00fa3d975fa2489ffd36123/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/604244a50aa0a8df65cf5810722aa62d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e1c83bc1c78cb0ed1633887abd620257/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/55ee7261e7996f9c8279c9b169ccc01c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/09c5567f858cf104cbc4226f1a60013a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/5d0e0470a90ea0e58f8113fe9c7f4fbc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/557703a7bfb3f93e6f6e05fbcd0dcb57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/2fd504316d9017bb9ef35b05b0cc5980/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ozan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0a101e009e434d56d8bae973c2bf7665/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/ozan/AndroidStudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+
+</items>
